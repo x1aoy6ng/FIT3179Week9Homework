@@ -12,9 +12,9 @@ year,state,sex,unemployment_rate_percentage
 2016,Terengganu,Male,4.7
 2016,Sabah,Male,4.9
 2016,Sarawak,Male,3.2
-2016,W.P. Kuala Lumpur,Male,3.1
-2016,W.P Labuan,Male,7.3
-2016,W.P.Putrajaya,Male,1.9
+2016,Kuala Lumpur,Male,3.1
+2016,Labuan,Male,7.3
+2016,Putrajaya,Male,1.9
 2016,Johor,Female,3.8
 2016,Kedah,Female,3.6
 2016,Kelantan,Female,4.3
@@ -28,9 +28,9 @@ year,state,sex,unemployment_rate_percentage
 2016,Terengganu,Female,3.2
 2016,Sabah,Female,6.1
 2016,Sarawak,Female,3.5
-2016,W.P. Kuala Lumpur,Female,3.6
-2016,W.P Labuan,Female,8.9
-2016,W.P.Putrajaya,Female,1.6
+2016,Kuala Lumpur,Female,3.6
+2016,Labuan,Female,8.9
+2016,Putrajaya,Female,1.6
 2017,Johor,Male,3.3
 2017,Kedah,Male,2.9
 2017,Kelantan,Male,3.4
@@ -44,9 +44,9 @@ year,state,sex,unemployment_rate_percentage
 2017,Terengganu,Male,4.5
 2017,Sabah,Male,5.6
 2017,Sarawak,Male,2.9
-2017,W.P. Kuala Lumpur,Male,2.9
-2017,W.P Labuan,Male,8.9
-2017,W.P.Putrajaya,Male,1.8
+2017,Kuala Lumpur,Male,2.9
+2017,Labuan,Male,8.9
+2017,Putrajaya,Male,1.8
 2017,Johor,Female,3.6
 2017,Kedah,Female,2.8
 2017,Kelantan,Female,3.9
@@ -60,9 +60,9 @@ year,state,sex,unemployment_rate_percentage
 2017,Terengganu,Female,4.5
 2017,Sabah,Female,5.7
 2017,Sarawak,Female,3.2
-2017,W.P. Kuala Lumpur,Female,3.5
-2017,W.P Labuan,Female,7.8
-2017,W.P.Putrajaya,Female,1.2
+2017,Kuala Lumpur,Female,3.5
+2017,Labuan,Female,7.8
+2017,Putrajaya,Female,1.2
 2018,Johor,Male,2.8
 2018,Kedah,Male,2.8
 2018,Kelantan,Male,3.2
@@ -76,9 +76,9 @@ year,state,sex,unemployment_rate_percentage
 2018,Terengganu,Male,4.7
 2018,Sabah,Male,5.3
 2018,Sarawak,Male,3
-2018,W.P. Kuala Lumpur,Male,2.3
-2018,W.P Labuan,Male,8.5
-2018,W.P.Putrajaya,Male,1.8
+2018,Kuala Lumpur,Male,2.3
+2018,Labuan,Male,8.5
+2018,Putrajaya,Male,1.8
 2018,Johor,Female,3.3
 2018,Kedah,Female,3.1
 2018,Kelantan,Female,5.3
@@ -92,9 +92,9 @@ year,state,sex,unemployment_rate_percentage
 2018,Terengganu,Female,4.9
 2018,Sabah,Female,6.7
 2018,Sarawak,Female,3.5
-2018,W.P. Kuala Lumpur,Female,2.5
-2018,W.P Labuan,Female,4.7
-2018,W.P.Putrajaya,Female,0.8
+2018,Kuala Lumpur,Female,2.5
+2018,Labuan,Female,4.7
+2018,Putrajaya,Female,0.8
 2019,Johor,Male,2.9
 2019,Kedah,Male,2.7
 2019,Kelantan,Male,3.2
@@ -108,9 +108,9 @@ year,state,sex,unemployment_rate_percentage
 2019,Terengganu,Male,3.5
 2019,Sabah,Male,5.7
 2019,Sarawak,Male,2.8
-2019,W.P. Kuala Lumpur,Male,2.6
-2019,W.P Labuan,Male,8
-2019,W.P.Putrajaya,Male,0.6
+2019,Kuala Lumpur,Male,2.6
+2019,Labuan,Male,8
+2019,Putrajaya,Male,0.6
 2019,Johor,Female,2.5
 2019,Kedah,Female,2.8
 2019,Kelantan,Female,5.2
@@ -124,9 +124,9 @@ year,state,sex,unemployment_rate_percentage
 2019,Terengganu,Female,3.7
 2019,Sabah,Female,5.9
 2019,Sarawak,Female,3.6
-2019,W.P. Kuala Lumpur,Female,2.7
-2019,W.P Labuan,Female,4.8
-2019,W.P.Putrajaya,Female,1.7
+2019,Kuala Lumpur,Female,2.7
+2019,Labuan,Female,4.8
+2019,Putrajaya,Female,1.7
 2020,Johor,Male,3.3
 2020,Johor,Female,4
 2020,Kedah,Male,4.1
@@ -153,9 +153,9 @@ year,state,sex,unemployment_rate_percentage
 2020,Sabah,Female,8.1
 2020,Sarawak,Male,4.5
 2020,Sarawak,Female,4.1
-2020,W.P. Kuala Lumpur,Male,3.8
-2020,W.P. Kuala Lumpur,Female,4.2
-2020,W.P Labuan,Male,8.8
-2020,W.P Labuan,Female,4.3
-2020,W.P.Putrajaya,Male,1.1
-2020,W.P.Putrajaya,Female,1.9
+2020,Kuala Lumpur,Male,3.8
+2020,Kuala Lumpur,Female,4.2
+2020,Labuan,Male,8.8
+2020,Labuan,Female,4.3
+2020,Putrajaya,Male,1.1
+2020,Putrajaya,Female,1.9
