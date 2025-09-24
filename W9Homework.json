@@ -1,6 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Unemployment in Malaysia (2020)",
+  "title": {
+    "text": "Malaysia Unemployment Rate in 2020",
+    "fontSize": 24,
+    "fontWeight": "bold",
+    "anchor": "middle"
+  },
   "width": 800,
   "height": 400,
   "projection": {
