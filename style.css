@@ -2,7 +2,3 @@
     display: flex;
     text-align: center;        
 }
-
-#map .vega-embed {
-  display: inline-block;      
-}
