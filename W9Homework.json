@@ -55,7 +55,7 @@
             "range" : ["#d3f2a4", "#8eda95", "#5fb086", "#35857d", "#136069"]
           },
           "legend": {
-            "title": "Unemployment rate",
+            "title": "Unemployment rate (Normalised)",
             "orient": "right",
             "offset": 30
           }
